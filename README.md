@@ -7,4 +7,4 @@ Transformice MICETIGRI API MAPS
 <br>
 > Micetigri: http://api.micetigri.fr/maps
 <br>
-*Tags: transformice, api, micetigri, maps, mice, mapas, xml*
+Tags: transformice, api, micetigri, maps, mice, mapas, xml
